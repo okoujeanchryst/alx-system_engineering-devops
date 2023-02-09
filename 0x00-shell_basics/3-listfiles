@@ -1,7 +1,2 @@
 #!/bin/bash
-total 16
--rwxr--r-- 1 root root 16 Feb  8 20:50 0-current_working_directory
--rwxr--r-- 1 root root 15 Feb  9 01:58 1-listit
--rwxr--r-- 1 root root 17 Feb  9 02:18 2-bring_me_home
--rw-r--r-- 1 root root  0 Feb  9 02:22 3-listfiles
--rw-r--r-- 1 root root 67 Feb  8 20:38 README.md
+0-current_working_directory 1-listit 2-bring_me_home 3-listfiles README.md
