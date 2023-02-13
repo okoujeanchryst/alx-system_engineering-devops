@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/passwd > 2-hellofile
+echo 'less /etc/passwd' > 2-hellofile
